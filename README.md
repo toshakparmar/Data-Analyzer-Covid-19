@@ -85,13 +85,14 @@ The application follows a client-server architecture:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/covid-19-analyzer.git
-   cd covid-19-analyzer
+   git clone https://github.com/toshakparmar/Data-Analyzer-Covid-19.git
+   cd Data-Analyzer-Covid-19
    ```
 2. Install R dependencies
 
    ```bash
    # In R console
+   R
    install.packages(c("plumber", "tidyverse", "httr", "jsonlite"))
    ```
 
@@ -104,7 +105,7 @@ The application follows a client-server architecture:
 
 1. Navigate to the frontend directory
    ```bash
-   cd covid-frontend
+   cd Frontend
    ```
 2. Install dependencies
    ```bash
@@ -112,11 +113,11 @@ The application follows a client-server architecture:
    ```
 3. Start the development server
    ```bash
-   npm start
+   npm run dev
    ```
 4. Open your browser and navigate to
    ```bash
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ## 📱 Usage
