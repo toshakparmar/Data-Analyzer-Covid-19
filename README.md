@@ -169,3 +169,13 @@ This project is licensed under the MIT License.
 - 🎨 Responsive React-based user interface
 - 🛡️ Error handling and fallback data support
 - 🔄 Automated retrieval of the latest available dataset
+
+## 🔌 API Documentation
+
+The backend exposes REST API endpoints through the R Plumber server.
+
+### Base URL
+
+```text
+http://localhost:8000
+```
