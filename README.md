@@ -158,3 +158,14 @@ This project is licensed under the MIT License.
 - **Recharts** for the visualization components
 
 <p align="center"> Developed with ❤️ by Toshak Parmar</p> <p align="center"> <i>@CodeSmachers</i> </p>
+
+## 🌟 Project Highlights
+
+- 📈 Interactive COVID-19 data visualization dashboard
+- 🌍 Country-wise pandemic analysis and comparison
+- 📅 Flexible time-range filtering for historical trends
+- 📊 Multiple chart types for cases, deaths, growth rates, and averages
+- ⚡ REST API powered by R and Plumber
+- 🎨 Responsive React-based user interface
+- 🛡️ Error handling and fallback data support
+- 🔄 Automated retrieval of the latest available dataset
